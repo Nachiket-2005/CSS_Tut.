@@ -24,8 +24,7 @@ a{
     color: #f08804;
 }
 
-#content{
+.contentbox{
     width: 100px;
     height: 100px;
-    background-color: #f08804;
 }
